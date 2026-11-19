@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="GPT-6.2 Astra 游戏图鉴，集中浏览作品截图、试玩入口、源码和许可证。">
+  <title>GPT-6.2 Astra 游戏图鉴</title>
+  <link rel="canonical" href="https://oldfishstudio.github.io/gpt6/">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://oldfishstudio.github.io/gpt6/">
+  <meta property="og:image" content="https://oldfishstudio.github.io/gpt6/captures/meridian-race.jpg">
+  <meta property="og:image:alt" content="Meridian Sound Racing 实机赛道画面">
+  <meta property="og:title" content="GPT-6.2 Astra 游戏图鉴">
+  <meta property="og:description" content="浏览 GPT-6.2 Astra 游戏的实机画面、试玩入口、源码与许可证。">
+  <link rel="stylesheet" href="style.css?v=20261119-play-flame">
+  <script src="games.js?v=20261119-112" defer></script>
+  <meta name="game-click-counter" content="https://oldfish-play-counts.pages.dev/counts" data-gallery="astra62">
+  <script src="play-counter.js?v=20261119-play-daily" defer></script>
+  <script src="gallery.js?v=20261119-play-flame" defer></script>
+</head>
+<body>
+  <header class="masthead">
+    <a href="./">ASTRA <span>6.2</span> / 游戏图鉴</a>
+    <button class="license-toggle" id="open-license" type="button" aria-haspopup="dialog">源码授权</button>
+  </header>
+  <main>
+    <section class="hero" aria-labelledby="title">
+      <h1 id="title">GPT-6.2 Astra <em>游戏图鉴</em></h1>
+    </section>
+    <section id="catalog" aria-label="作品列表">
+      <div class="toolbar">
+        <label>搜索<input id="search" type="search" placeholder="名称、类型或作者"></label>
+        <label>范围<select id="filter">
+          <option value="all">全部作品</option>
+          <option value="open">开源游戏 · 可玩且完整开源</option>
+          <option value="play-only">可玩 · 未确认完整开源</option>
+        </select></label>
+        <p id="count" role="status"></p>
+      </div>
+      <div class="grid" id="games"></div>
+      <noscript>请启用 JavaScript 浏览图鉴。</noscript>
+    </section>
+  </main>
+  <dialog id="license" aria-labelledby="license-title">
+    <div class="license-header">
+      <h2 id="license-title">源码能怎么用？</h2>
+      <form method="dialog">
+        <button class="license-close" type="submit" aria-label="关闭源码授权" autofocus>×</button>
+      </form>
+    </div>
+      <dl>
+        <dt>筛选口径</dt>
+        <dd>「完整开源」同时要求可运行的游戏代码和明确适用的开放许可证。本地运行也计入可玩。单文件 HTML 内含完整游戏逻辑时也算源码。作者栏优先显示已知原作者，其余显示 GitHub 发布账号。</dd>
+        <dt>MIT、Apache-2.0、zlib、CC0 1.0</dt>
+        <dd>观众可从原仓库获取源码，按项目条款修改和再分发。MIT 要保留版权与许可声明。Apache-2.0 再分发要附许可证、标明修改并处理适用的 NOTICE。zlib 要保留源码里的许可声明，修改版要明确标注，来源不得误称。CC0 1.0 适用于作者明确按该声明发布的内容。</dd>
+        <dt>许可证未声明</dt>
+        <dd>GitHub 公开仓库可浏览，并可使用平台允许的 Fork 功能。若作者没有明确授予进一步许可，请勿把下载按钮或公开可见性当成改编、再发布或站外下载镜像的授权。</dd>
+        <dt>CC BY-NC-SA 4.0</dt>
+        <dd>可按条款署名、非商业分享及改编。分享改编版时沿用同一许可证。</dd>
+        <dt>截图和第三方素材</dt>
+        <dd>美术、音乐、字体、品牌和截图可能有各自的条款。标注「图鉴封面」的卡片暂缺可核对的项目画面。</dd>
+      </dl>
+      <p class="references"><a href="https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository">GitHub 许可说明</a> · <a href="https://opensource.org/license/mit">MIT</a> · <a href="https://opensource.org/license/apache-2.0">Apache-2.0</a> · <a href="https://opensource.org/license/zlib">zlib</a> · <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a> · <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></p>
+  </dialog>
+  <footer class="site-footer">
+    <details class="source-references">
+      <summary>参考来源 <span lang="en">References</span></summary>
+      <ul class="reference-index">
+        <li><a href="https://openai.com/index/introducing-gpt-6-2-astra-sol/" target="_blank" rel="noopener noreferrer">GPT-6.2 Astra 正式公告</a></li>
+        <li><a href="https://openai.com/index/gpt-6-astra/" target="_blank" rel="noopener noreferrer">GPT-6 Astra 正式公告</a></li>
+        <li><a href="https://developers.openai.com/showcase/games" target="_blank" rel="noopener noreferrer">OpenAI Developers 游戏作品</a></li>
+      </ul>
+      <ul class="reference-sites" id="reference-sites" aria-label="按网站浏览条目来源"></ul>
+    </details>
+  </footer>
+</body>
+</html>
