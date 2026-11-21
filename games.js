@@ -3377,7 +3377,13 @@ const games = [
       ]
     ],
     "added": "2026-11-21",
-    "author": "Andrej Dunaev"
+    "author": "Andrej Dunaev",
+    "image": "https://blackburn-flight.pages.dev/flight-preview.jpg",
+    "imageSource": "https://blackburn-flight.pages.dev/",
+    "imageLabel": "作者实机截图",
+    "authorUrl": "https://github.com/Dun4ev",
+    "license": "许可证未声明",
+    "rights": "源码公开，游戏代码许可证未声明。"
   },
   {
     "id": "hamster-colony",
@@ -3397,7 +3403,14 @@ const games = [
         "https://github.com/KostiKoNeuro/astra-6-2-solo"
       ]
     ],
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "image": "captures/2026-11-21/hamster-colony.jpg",
+    "imageSource": "https://kostikoneuro.github.io/astra-6-2-solo/5-hamsters/game/",
+    "imageLabel": "实机截图",
+    "authorUrl": "https://github.com/KostiKoNeuro",
+    "author": "KostiKoNeuro",
+    "license": "许可证未声明",
+    "rights": "源码公开，游戏代码许可证未声明。"
   },
   {
     "id": "dusk-runner-rooftop-time-trial",
@@ -3417,7 +3430,14 @@ const games = [
         "https://github.com/clockendbader/model-arena"
       ]
     ],
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "image": "captures/2026-11-21/dusk-runner.jpg",
+    "imageSource": "https://clockendbader.github.io/model-arena/astra-6.2/parkour/",
+    "imageLabel": "游戏标题画面",
+    "authorUrl": "https://github.com/clockendbader",
+    "author": "clockendbader",
+    "license": "许可证未声明",
+    "rights": "源码公开，游戏代码许可证未声明。"
   },
   {
     "id": "uno-com-escada-astra",
@@ -3445,7 +3465,10 @@ const games = [
     "license": "PolyForm Noncommercial 1.0.0",
     "image": "https://raw.githubusercontent.com/viktorkav/uno-com-escada/main/.github/screenshots/astra-largada.jpg",
     "imageSource": "https://github.com/viktorkav/uno-com-escada/blob/main/.github/screenshots/astra-largada.jpg",
-    "imageLabel": "作者实机截图"
+    "imageLabel": "作者实机截图",
+    "authorUrl": "https://github.com/viktorkav",
+    "author": "viktorkav",
+    "rights": "代码采用 PolyForm Noncommercial 1.0.0，详见仓库许可。"
   },
   {
     "id": "faultline-cold-relay",
@@ -3471,7 +3494,13 @@ const games = [
       ]
     ],
     "added": "2026-11-21",
-    "license": "MIT"
+    "license": "MIT",
+    "image": "captures/2026-11-21/faultline-cold-relay.jpg",
+    "imageSource": "https://github.com/Yari-tuber/gpt62-vs-opus55-tests/blob/main/05_%E4%B8%80%E5%8F%A5%E8%AF%9D3A%E5%B0%84%E5%87%BB/gpt-6.2-astra/index.html",
+    "imageLabel": "游戏标题画面",
+    "authorUrl": "https://github.com/Yari-tuber",
+    "author": "Yari-tuber",
+    "rights": "游戏代码采用 MIT，详见仓库 LICENSE。"
   },
   {
     "id": "mosswing",
@@ -3496,7 +3525,9 @@ const games = [
     "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/mosswing/gameplay.jpg",
     "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/mosswing",
     "imageLabel": "实机截图",
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "license": "许可证未声明",
+    "rights": "源码公开，游戏代码许可证未声明。"
   },
   {
     "id": "mystery-town",
@@ -3519,7 +3550,9 @@ const games = [
     "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/mystery-town/gameplay.png",
     "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/mystery-town",
     "imageLabel": "实机截图",
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "license": "许可证未声明",
+    "rights": "通过原作者入口试玩，代码和素材复用许可未声明。"
   },
   {
     "id": "little-kingdom-chess",
@@ -3542,7 +3575,9 @@ const games = [
     "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/little-kingdom-chess/gameplay.jpg",
     "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/little-kingdom-chess",
     "imageLabel": "实机截图",
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "license": "许可证未声明",
+    "rights": "通过原作者入口试玩，代码和素材复用许可未声明。"
   },
   {
     "id": "canteen-crashers",
@@ -3565,7 +3600,9 @@ const games = [
     "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/canteen-crashers/gameplay.jpg",
     "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/canteen-crashers",
     "imageLabel": "实机截图",
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "license": "许可证未声明",
+    "rights": "通过原作者入口试玩，代码和素材复用许可未声明。"
   },
   {
     "id": "above-the-rooftops",
@@ -3588,7 +3625,9 @@ const games = [
     "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/above-the-rooftops/gameplay.jpg",
     "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/above-the-rooftops",
     "imageLabel": "实机截图",
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "license": "许可证未声明",
+    "rights": "通过原作者入口试玩，代码和素材复用许可未声明。"
   },
   {
     "id": "starship-foundry",
@@ -3611,7 +3650,9 @@ const games = [
     "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/starship-foundry/gameplay.jpg",
     "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/starship-foundry",
     "imageLabel": "实机截图",
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "license": "许可证未声明",
+    "rights": "通过原作者入口试玩，代码和素材复用许可未声明。"
   },
   {
     "id": "neon-wake",
@@ -3634,7 +3675,9 @@ const games = [
     "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/neon-wake/gameplay.jpg",
     "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/neon-wake",
     "imageLabel": "实机截图",
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "license": "许可证未声明",
+    "rights": "通过原作者入口试玩，代码和素材复用许可未声明。"
   },
   {
     "id": "skicross",
@@ -3657,7 +3700,9 @@ const games = [
     "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/skicross/gameplay.jpg",
     "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/skicross",
     "imageLabel": "实机截图",
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "license": "许可证未声明",
+    "rights": "通过原作者入口试玩，代码和素材复用许可未声明。"
   },
   {
     "id": "hot-wheeler",
@@ -3680,7 +3725,9 @@ const games = [
     "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/hot-wheeler/gameplay.jpg",
     "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/hot-wheeler",
     "imageLabel": "实机截图",
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "license": "许可证未声明",
+    "rights": "通过原作者入口试玩，代码和素材复用许可未声明。"
   },
   {
     "id": "bengaluru-orr-rush",
@@ -3703,7 +3750,9 @@ const games = [
     "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/bengaluru-orr-rush/gameplay.jpg",
     "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/bengaluru-orr-rush",
     "imageLabel": "实机截图",
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "license": "许可证未声明",
+    "rights": "通过原作者入口试玩，代码和素材复用许可未声明。"
   },
   {
     "id": "mog-mode",
@@ -3726,7 +3775,9 @@ const games = [
     "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/mog-mode/gameplay.jpg",
     "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/mog-mode",
     "imageLabel": "实机截图",
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "license": "许可证未声明",
+    "rights": "通过原作者入口试玩，代码和素材复用许可未声明。"
   },
   {
     "id": "drone-io",
@@ -3749,7 +3800,9 @@ const games = [
     "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/drone-io/gameplay.jpg",
     "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/drone-io",
     "imageLabel": "实机截图",
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "license": "许可证未声明",
+    "rights": "通过原作者入口试玩，代码和素材复用许可未声明。"
   },
   {
     "id": "asteroids-deepfield",
@@ -3772,7 +3825,9 @@ const games = [
     "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/asteroids-deepfield/gameplay.jpg",
     "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/asteroids-deepfield",
     "imageLabel": "实机截图",
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "license": "许可证未声明",
+    "rights": "通过原作者入口试玩，代码和素材复用许可未声明。"
   },
   {
     "id": "astra-floor",
@@ -3795,7 +3850,9 @@ const games = [
     "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/astra-floor/gameplay.png",
     "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/astra-floor",
     "imageLabel": "实机截图",
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "license": "许可证未声明",
+    "rights": "通过原作者入口试玩，代码和素材复用许可未声明。"
   },
   {
     "id": "canyon-overdrive",
@@ -3818,7 +3875,9 @@ const games = [
     "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/canyon-overdrive/gameplay.jpg",
     "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/canyon-overdrive",
     "imageLabel": "实机截图",
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "license": "许可证未声明",
+    "rights": "通过原作者入口试玩，代码和素材复用许可未声明。"
   },
   {
     "id": "ascii-district",
@@ -3841,7 +3900,9 @@ const games = [
     "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/ascii-district/gameplay.jpg",
     "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/ascii-district",
     "imageLabel": "实机截图",
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "license": "许可证未声明",
+    "rights": "通过原作者入口试玩，代码和素材复用许可未声明。"
   },
   {
     "id": "chrono-raid",
@@ -3864,7 +3925,9 @@ const games = [
     "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/chrono-raid/gameplay.jpg",
     "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/chrono-raid",
     "imageLabel": "实机截图",
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "license": "许可证未声明",
+    "rights": "通过原作者入口试玩，代码和素材复用许可未声明。"
   },
   {
     "id": "loulous-apartment",
@@ -3887,7 +3950,9 @@ const games = [
     "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/loulous-apartment/gameplay.jpg",
     "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/loulous-apartment",
     "imageLabel": "实机截图",
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "license": "许可证未声明",
+    "rights": "通过原作者入口试玩，代码和素材复用许可未声明。"
   },
   {
     "id": "underground-boxing",
@@ -3910,7 +3975,9 @@ const games = [
     "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/underground-boxing/gameplay.jpg",
     "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/underground-boxing",
     "imageLabel": "实机截图",
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "license": "许可证未声明",
+    "rights": "通过原作者入口试玩，代码和素材复用许可未声明。"
   },
   {
     "id": "zero-district-shells-3d",
@@ -3933,7 +4000,9 @@ const games = [
     "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/zero-district-shells-3d/gameplay.jpg",
     "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/zero-district-shells-3d",
     "imageLabel": "实机截图",
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "license": "许可证未声明",
+    "rights": "通过原作者入口试玩，代码和素材复用许可未声明。"
   },
   {
     "id": "crayon-space-bike",
@@ -3956,7 +4025,9 @@ const games = [
     "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/crayon-space-bike/gameplay.jpg",
     "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/crayon-space-bike",
     "imageLabel": "实机截图",
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "license": "许可证未声明",
+    "rights": "通过原作者入口试玩，代码和素材复用许可未声明。"
   },
   {
     "id": "the-crownless",
@@ -3979,7 +4050,9 @@ const games = [
     "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/the-crownless/gameplay.jpg",
     "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/the-crownless",
     "imageLabel": "实机截图",
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "license": "许可证未声明",
+    "rights": "通过原作者入口试玩，代码和素材复用许可未声明。"
   },
   {
     "id": "cosmic-tides",
@@ -4002,7 +4075,9 @@ const games = [
     "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/cosmic-tides/gameplay.jpg",
     "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/cosmic-tides",
     "imageLabel": "实机截图",
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "license": "许可证未声明",
+    "rights": "通过原作者入口试玩，代码和素材复用许可未声明。"
   },
   {
     "id": "neural-sight",
@@ -4026,7 +4101,9 @@ const games = [
     "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/neural-sight/gameplay.jpg",
     "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/neural-sight",
     "imageLabel": "实机截图",
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "license": "许可证未声明",
+    "rights": "源码公开，游戏代码许可证未声明。"
   },
   {
     "id": "duskline-canyon-circuit",
@@ -4049,6 +4126,8 @@ const games = [
     "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/duskline-canyon-circuit/gameplay.jpg",
     "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/duskline-canyon-circuit",
     "imageLabel": "实机截图",
-    "added": "2026-11-21"
+    "added": "2026-11-21",
+    "license": "许可证未声明",
+    "rights": "通过原作者入口试玩，代码和素材复用许可未声明。"
   }
 ];
