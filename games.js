@@ -3357,5 +3357,698 @@ const games = [
       ]
     ],
     "quality": 81
+  },
+  {
+    "id": "blackburn-type-d",
+    "name": "Blackburn Type D",
+    "repo": "Dun4ev/blackburn-flight",
+    "repoUrl": "https://github.com/Dun4ev/blackburn-flight",
+    "genre": "飞行挑战",
+    "note": "驾驶早期 Blackburn Type D 飞机，操纵方向和高度穿过四个环。",
+    "play": "https://blackburn-flight.pages.dev/",
+    "source": "project",
+    "kind": "game",
+    "status": "target",
+    "version": "GPT-6.2 Astra",
+    "refs": [
+      [
+        "作者源码与模型记录",
+        "https://github.com/Dun4ev/blackburn-flight"
+      ]
+    ],
+    "added": "2026-11-21",
+    "author": "Andrej Dunaev"
+  },
+  {
+    "id": "hamster-colony",
+    "name": "Burrow — Sunflower Hollow（仓鼠群落）",
+    "repo": "KostiKoNeuro/astra-6-2-solo",
+    "repoUrl": "https://github.com/KostiKoNeuro/astra-6-2-solo/tree/main/5-hamsters",
+    "genre": "群落模拟",
+    "note": "观察仓鼠觅食、饮水、社交和繁殖，调节速度并查看个体状态。",
+    "play": "https://kostikoneuro.github.io/astra-6-2-solo/5-hamsters/game/",
+    "source": "single",
+    "kind": "game",
+    "status": "target",
+    "version": "GPT-6.2 Astra",
+    "refs": [
+      [
+        "作者源码与模型记录",
+        "https://github.com/KostiKoNeuro/astra-6-2-solo"
+      ]
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "id": "dusk-runner-rooftop-time-trial",
+    "name": "Dusk Runner — Rooftop Time Trial",
+    "repo": "clockendbader/model-arena",
+    "repoUrl": "https://github.com/clockendbader/model-arena/tree/main/astra-6.2/parkour",
+    "genre": "3D 屋顶跑酷",
+    "note": "跳过屋顶障碍并缩短通关时间。同提示词对照中的 Astra 版。",
+    "play": "https://clockendbader.github.io/model-arena/astra-6.2/parkour/",
+    "source": "project",
+    "kind": "game",
+    "status": "target",
+    "version": "GPT-6.2 Astra",
+    "refs": [
+      [
+        "作者源码与模型记录",
+        "https://github.com/clockendbader/model-arena"
+      ]
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "id": "uno-com-escada-astra",
+    "name": "Uno com escada · Astra 版",
+    "repo": "viktorkav/uno-com-escada",
+    "repoUrl": "https://github.com/viktorkav/uno-com-escada/tree/main/astra",
+    "genre": "山路竞速",
+    "note": "驾驶车顶绑梯子的 Fiat Uno 跑山路赛道。这里是同一需求下的 Astra 版本。",
+    "play": "https://viktorkav.com.br/apoio/uno-com-escada/astra/",
+    "source": "project",
+    "kind": "game",
+    "status": "target",
+    "version": "GPT-6.2 Astra",
+    "refs": [
+      [
+        "作者源码与模型记录",
+        "https://github.com/viktorkav/uno-com-escada"
+      ],
+      [
+        "代码许可",
+        "https://github.com/viktorkav/uno-com-escada/blob/main/LICENSE.md"
+      ]
+    ],
+    "added": "2026-11-21",
+    "license": "PolyForm Noncommercial 1.0.0",
+    "image": "https://raw.githubusercontent.com/viktorkav/uno-com-escada/main/.github/screenshots/astra-largada.jpg",
+    "imageSource": "https://github.com/viktorkav/uno-com-escada/blob/main/.github/screenshots/astra-largada.jpg",
+    "imageLabel": "作者实机截图"
+  },
+  {
+    "id": "faultline-cold-relay",
+    "name": "FAULTLINE — Cold Relay",
+    "repo": "Yari-tuber/gpt62-vs-opus55-tests",
+    "repoUrl": "https://github.com/Yari-tuber/gpt62-vs-opus55-tests/tree/main/05_%E4%B8%80%E5%8F%A5%E8%AF%9D3A%E5%B0%84%E5%87%BB/gpt-6.2-astra",
+    "genre": "第一人称射击",
+    "note": "在冷色调的无线电站关卡探索与交火。",
+    "local": "在本地 Chrome 或 Edge 打开 index.html",
+    "url": "https://github.com/Yari-tuber/gpt62-vs-opus55-tests/tree/main/05_%E4%B8%80%E5%8F%A5%E8%AF%9D3A%E5%B0%84%E5%87%BB/gpt-6.2-astra",
+    "source": "single",
+    "kind": "game",
+    "status": "target",
+    "version": "GPT-6.2 Astra",
+    "refs": [
+      [
+        "作者源码与模型记录",
+        "https://github.com/Yari-tuber/gpt62-vs-opus55-tests"
+      ],
+      [
+        "代码许可",
+        "https://github.com/Yari-tuber/gpt62-vs-opus55-tests/blob/main/LICENSE"
+      ]
+    ],
+    "added": "2026-11-21",
+    "license": "MIT"
+  },
+  {
+    "id": "mosswing",
+    "name": "Mosswing",
+    "author": "Ayi1337",
+    "authorUrl": "https://github.com/Ayi1337",
+    "genre": "3D 反应街机",
+    "version": "GPT-6 Astra",
+    "kind": "game",
+    "status": "target",
+    "source": "project",
+    "repo": "Ayi1337/gpt6-astra-one-shot-games",
+    "repoUrl": "https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/mosswing",
+    "play": "https://mosswing-quiet-flight.jack-514.chatgpt.site/",
+    "note": "点按控制飞行高度，穿过成排石柱并刷新分数。",
+    "refs": [
+      [
+        "作者模型说明",
+        "https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/README.md"
+      ]
+    ],
+    "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/mosswing/gameplay.jpg",
+    "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/mosswing",
+    "imageLabel": "实机截图",
+    "added": "2026-11-21"
+  },
+  {
+    "id": "mystery-town",
+    "name": "Mystery Town",
+    "author": "EggOrbit Games",
+    "authorUrl": "https://playableworld.itch.io/",
+    "genre": "场景解谜",
+    "version": "GPT-6 Astra",
+    "kind": "game",
+    "status": "target",
+    "source": "entry",
+    "play": "https://playableworld.itch.io/mystery-town",
+    "note": "观察微缩场景并调整物品，找到让事件依次发生的顺序。",
+    "refs": [
+      [
+        "作者模型说明",
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/80"
+      ]
+    ],
+    "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/mystery-town/gameplay.png",
+    "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/mystery-town",
+    "imageLabel": "实机截图",
+    "added": "2026-11-21"
+  },
+  {
+    "id": "little-kingdom-chess",
+    "name": "Little Kingdom Chess / 작은 왕국 체스",
+    "author": "에코_eco",
+    "authorUrl": "https://x.com/echo3042",
+    "genre": "3D 棋类",
+    "version": "GPT-6 Astra",
+    "kind": "game",
+    "status": "target",
+    "source": "entry",
+    "play": "https://little-kingdom-chess.echo3042.chatgpt.site/",
+    "note": "在可旋转的微缩棋盘上和电脑下棋，支持回看棋步与悔棋。",
+    "refs": [
+      [
+        "作者模型说明",
+        "https://x.com/echo3042/status/2096123409029886250"
+      ]
+    ],
+    "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/little-kingdom-chess/gameplay.jpg",
+    "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/little-kingdom-chess",
+    "imageLabel": "实机截图",
+    "added": "2026-11-21"
+  },
+  {
+    "id": "canteen-crashers",
+    "name": "Canteen Crashers",
+    "author": "Chong-U / chongdashu",
+    "authorUrl": "https://x.com/chongdashu",
+    "genre": "合作潜行",
+    "version": "GPT-6 Astra",
+    "kind": "game",
+    "status": "target",
+    "source": "entry",
+    "play": "https://wavedash.com/games/canteen-crashers",
+    "note": "搜集三张食谱并送回厨房，利用道具和滑行躲开厨师。",
+    "refs": [
+      [
+        "作者模型说明",
+        "https://x.com/chongdashu/status/2100207494375285029"
+      ]
+    ],
+    "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/canteen-crashers/gameplay.jpg",
+    "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/canteen-crashers",
+    "imageLabel": "实机截图",
+    "added": "2026-11-21"
+  },
+  {
+    "id": "above-the-rooftops",
+    "name": "Above the Rooftops",
+    "author": "Tushar / @TusharXo",
+    "authorUrl": "https://x.com/TusharXo",
+    "genre": "风筝模拟",
+    "version": "GPT-6 Astra",
+    "kind": "game",
+    "status": "target",
+    "source": "entry",
+    "play": "https://app.usecrayon.ai/play/d09bb865-2259-42e2-86cc-fb609a9d6f28",
+    "note": "为风筝上色，在屋顶上方控制线的张力，尝试限时飞行。",
+    "refs": [
+      [
+        "作者模型说明",
+        "https://x.com/TusharXo/status/2098156783181467801"
+      ]
+    ],
+    "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/above-the-rooftops/gameplay.jpg",
+    "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/above-the-rooftops",
+    "imageLabel": "实机截图",
+    "added": "2026-11-21"
+  },
+  {
+    "id": "starship-foundry",
+    "name": "Starship Foundry — Isometric Flight Lab",
+    "author": "Aaron Wacker",
+    "authorUrl": "https://x.com/Aaron_Wacker",
+    "genre": "组装与飞行",
+    "version": "GPT-6 Astra",
+    "kind": "game",
+    "status": "target",
+    "source": "entry",
+    "play": "https://allaiinc.org/Starship-Foundry-Isometric-Flight-Lab.html",
+    "note": "拼装模块飞船，检查部件连接，驾驶它穿过特技圆环。",
+    "refs": [
+      [
+        "作者模型说明",
+        "https://x.com/Aaron_Wacker/status/2100382539697254828"
+      ]
+    ],
+    "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/starship-foundry/gameplay.jpg",
+    "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/starship-foundry",
+    "imageLabel": "实机截图",
+    "added": "2026-11-21"
+  },
+  {
+    "id": "neon-wake",
+    "name": "Neon Wake — Dubai Coast",
+    "author": "Captain M1K / Ethra",
+    "authorUrl": "https://x.com/captain_m1k",
+    "genre": "快艇竞速",
+    "version": "GPT-6 Astra",
+    "kind": "game",
+    "status": "target",
+    "source": "entry",
+    "play": "https://neonwake.ethraship.com/",
+    "note": "沿迪拜海岸驾驶快艇，通过八个区段，利用跳台和加速缩短圈速。",
+    "refs": [
+      [
+        "作者模型说明",
+        "https://x.com/captain_m1k/status/2098310479714369926"
+      ]
+    ],
+    "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/neon-wake/gameplay.jpg",
+    "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/neon-wake",
+    "imageLabel": "实机截图",
+    "added": "2026-11-21"
+  },
+  {
+    "id": "skicross",
+    "name": "SKICROSS — Alpine Downhill",
+    "author": "Sonic的奇思妙想",
+    "authorUrl": "https://x.com/sonic0828",
+    "genre": "滑雪竞速",
+    "version": "GPT-6 Astra",
+    "kind": "game",
+    "status": "target",
+    "source": "entry",
+    "play": "https://iamsonic.net/2026/mini-games/skicross.html",
+    "note": "在雪坡上穿过旗门和障碍，与滑手竞争并避开雪崩。",
+    "refs": [
+      [
+        "作者模型说明",
+        "https://x.com/sonic0828/status/2097601232877781344"
+      ]
+    ],
+    "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/skicross/gameplay.jpg",
+    "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/skicross",
+    "imageLabel": "实机截图",
+    "added": "2026-11-21"
+  },
+  {
+    "id": "hot-wheeler",
+    "name": "Hot Wheeler",
+    "author": "Varun Arora",
+    "authorUrl": "https://x.com/varavibes",
+    "genre": "玩具车特技",
+    "version": "GPT-6 Astra",
+    "kind": "game",
+    "status": "target",
+    "source": "entry",
+    "play": "https://hot-wheeler.vercel.app/",
+    "note": "驾驶玩具车驶过环形轨道、跳台和加速垫。",
+    "refs": [
+      [
+        "作者模型说明",
+        "https://x.com/varavibes/status/2099269587401580886"
+      ]
+    ],
+    "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/hot-wheeler/gameplay.jpg",
+    "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/hot-wheeler",
+    "imageLabel": "实机截图",
+    "added": "2026-11-21"
+  },
+  {
+    "id": "bengaluru-orr-rush",
+    "name": "Bengaluru ORR Rush",
+    "author": "Ravi Theja",
+    "authorUrl": "https://x.com/ravithejads",
+    "genre": "公路竞速",
+    "version": "GPT-6 Astra",
+    "kind": "game",
+    "status": "target",
+    "source": "entry",
+    "play": "https://orr-rush-bengaluru.ravitheja.chatgpt.site/",
+    "note": "穿过班加罗尔车流，躲避坑洼与配送车，利用加速争取空间。",
+    "refs": [
+      [
+        "作者模型说明",
+        "https://x.com/ravithejads/status/2097181044625887392"
+      ]
+    ],
+    "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/bengaluru-orr-rush/gameplay.jpg",
+    "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/bengaluru-orr-rush",
+    "imageLabel": "实机截图",
+    "added": "2026-11-21"
+  },
+  {
+    "id": "mog-mode",
+    "name": "Mog Mode",
+    "author": "Dylan Elder / Yesterday Arcade",
+    "authorUrl": "https://x.com/YesterdayArcade",
+    "genre": "节奏街机",
+    "version": "GPT-6 Astra",
+    "kind": "game",
+    "status": "target",
+    "source": "entry",
+    "play": "https://yesterdayarcade.com/games/mog-mode/",
+    "note": "选择角色参加合影，在正确时机完成四次握手挑战。",
+    "refs": [
+      [
+        "作者模型说明",
+        "https://x.com/YesterdayArcade/status/2100510743422734658"
+      ]
+    ],
+    "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/mog-mode/gameplay.jpg",
+    "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/mog-mode",
+    "imageLabel": "实机截图",
+    "added": "2026-11-21"
+  },
+  {
+    "id": "drone-io",
+    "name": "DRONE.IO — Proving Grounds",
+    "author": "Angello",
+    "authorUrl": "https://x.com/OMASMohamad",
+    "genre": "无人机竞技",
+    "version": "GPT-6 Astra",
+    "kind": "game",
+    "status": "target",
+    "source": "entry",
+    "play": "https://drone-io.vercel.app/",
+    "note": "驾驶无人机在竞技场与电脑对手比拼，利用雷达并解锁升级。",
+    "refs": [
+      [
+        "作者模型说明",
+        "https://x.com/OMASMohamad/status/2101830659358478516"
+      ]
+    ],
+    "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/drone-io/gameplay.jpg",
+    "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/drone-io",
+    "imageLabel": "实机截图",
+    "added": "2026-11-21"
+  },
+  {
+    "id": "asteroids-deepfield",
+    "name": "ASTEROIDS · Deepfield",
+    "author": "Eyes Wide Open",
+    "authorUrl": "https://x.com/DantesClown",
+    "genre": "太空街机",
+    "version": "GPT-6 Astra",
+    "kind": "game",
+    "status": "target",
+    "source": "entry",
+    "play": "https://asteroids-deepfield-cockpit.dan200200.chatgpt.site/",
+    "note": "驾驶惯性飞船，通过雷达和多视角观察，用双炮清理小行星。",
+    "refs": [
+      [
+        "作者模型说明",
+        "https://x.com/DantesClown/status/2096085439052452064"
+      ]
+    ],
+    "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/asteroids-deepfield/gameplay.jpg",
+    "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/asteroids-deepfield",
+    "imageLabel": "实机截图",
+    "added": "2026-11-21"
+  },
+  {
+    "id": "astra-floor",
+    "name": "Astra Floor",
+    "author": "BEROCHLU",
+    "authorUrl": "https://github.com/BEROCHLU",
+    "genre": "生存射击",
+    "version": "GPT-6 Astra",
+    "kind": "game",
+    "status": "target",
+    "source": "entry",
+    "play": "https://astrafloor.berochlu.workers.dev/",
+    "note": "在不断增多的僵尸中生存，管理体力与武器，并挑战首领。作者披露 Antigravity 2.0 参与后续实现与优化。",
+    "refs": [
+      [
+        "作者模型说明",
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/96"
+      ]
+    ],
+    "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/astra-floor/gameplay.png",
+    "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/astra-floor",
+    "imageLabel": "实机截图",
+    "added": "2026-11-21"
+  },
+  {
+    "id": "canyon-overdrive",
+    "name": "Canyon Overdrive",
+    "author": "Marco van Hylckama Vlieg / AI & Design",
+    "authorUrl": "https://x.com/AIandDesign",
+    "genre": "飞行射击",
+    "version": "GPT-6 Astra",
+    "kind": "game",
+    "status": "target",
+    "source": "entry",
+    "play": "https://canyonoverdrive.ai-created.com/",
+    "note": "驾驶战机钻过霓虹峡谷，闪避来袭攻击并突破封锁。作者同时使用了 GPT-6.1 Sol。",
+    "refs": [
+      [
+        "作者模型说明",
+        "https://x.com/AIandDesign/status/2105465838946140499"
+      ]
+    ],
+    "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/canyon-overdrive/gameplay.jpg",
+    "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/canyon-overdrive",
+    "imageLabel": "实机截图",
+    "added": "2026-11-21"
+  },
+  {
+    "id": "ascii-district",
+    "name": "ASCII DISTRICT",
+    "author": "Acker Code",
+    "authorUrl": "https://x.com/acker_code",
+    "genre": "字符风射击",
+    "version": "GPT-6 Astra",
+    "kind": "game",
+    "status": "target",
+    "source": "entry",
+    "play": "https://ascii-district.vercel.app/",
+    "note": "在 ASCII 字符绘制的竞技场中跳跃、滑铲并抵御不断来袭的敌人。",
+    "refs": [
+      [
+        "作者模型说明",
+        "https://x.com/acker_code/status/2097542957070975286"
+      ]
+    ],
+    "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/ascii-district/gameplay.jpg",
+    "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/ascii-district",
+    "imageLabel": "实机截图",
+    "added": "2026-11-21"
+  },
+  {
+    "id": "chrono-raid",
+    "name": "CHRONO RAID · SUZUNE & AOI",
+    "author": "SZOU / @szounft",
+    "authorUrl": "https://x.com/szounft",
+    "genre": "首领战",
+    "version": "GPT-6 Astra",
+    "kind": "game",
+    "status": "target",
+    "source": "entry",
+    "play": "https://suzune-aoi-fighters.szou2003.chatgpt.site/",
+    "note": "在近战和远程角色间选择，躲开机械首领的攻击并发动特殊招式。作者使用 Seedance 和 H3 生成角色动画。",
+    "refs": [
+      [
+        "作者模型说明",
+        "https://x.com/szounft/status/2098310992770007365"
+      ]
+    ],
+    "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/chrono-raid/gameplay.jpg",
+    "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/chrono-raid",
+    "imageLabel": "实机截图",
+    "added": "2026-11-21"
+  },
+  {
+    "id": "loulous-apartment",
+    "name": "Loulou’s Apartment",
+    "author": "Louise de Sadeleer",
+    "authorUrl": "https://x.com/LouiseDSadeleer",
+    "genre": "互动探索",
+    "version": "GPT-6 Astra",
+    "kind": "game",
+    "status": "target",
+    "source": "entry",
+    "play": "https://loulous-apartment.vercel.app/",
+    "note": "游览温馨公寓，与家具互动，还可以摸摸狗狗 Maggie。",
+    "refs": [
+      [
+        "作者模型说明",
+        "https://x.com/LouiseDSadeleer/status/2098340442500653368"
+      ]
+    ],
+    "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/loulous-apartment/gameplay.jpg",
+    "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/loulous-apartment",
+    "imageLabel": "实机截图",
+    "added": "2026-11-21"
+  },
+  {
+    "id": "underground-boxing",
+    "name": "UNDERGROUND — Underground Boxing",
+    "author": "Sonic的奇思妙想",
+    "authorUrl": "https://x.com/sonic0828",
+    "genre": "拳击",
+    "version": "GPT-6 Astra",
+    "kind": "game",
+    "status": "target",
+    "source": "entry",
+    "play": "https://iamsonic.net/2026/mini-games/underground-boxing.html",
+    "note": "参加三回合地下拳赛，在出拳、格挡、闪躲和体力之间取舍。",
+    "refs": [
+      [
+        "作者模型说明",
+        "https://x.com/sonic0828/status/2097601232877781344"
+      ]
+    ],
+    "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/underground-boxing/gameplay.jpg",
+    "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/underground-boxing",
+    "imageLabel": "实机截图",
+    "added": "2026-11-21"
+  },
+  {
+    "id": "zero-district-shells-3d",
+    "name": "Zero District — Shells 3D",
+    "author": "Sonic的奇思妙想",
+    "authorUrl": "https://x.com/sonic0828",
+    "genre": "限时生存",
+    "version": "GPT-6 Astra",
+    "kind": "game",
+    "status": "target",
+    "source": "entry",
+    "play": "https://iamsonic.net/2026/mini-games/shells-3d/play.html",
+    "note": "在城市围攻中坚持三分钟，拾取经验并选择升级。",
+    "refs": [
+      [
+        "作者模型说明",
+        "https://x.com/sonic0828/status/2097601232877781344"
+      ]
+    ],
+    "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/zero-district-shells-3d/gameplay.jpg",
+    "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/zero-district-shells-3d",
+    "imageLabel": "实机截图",
+    "added": "2026-11-21"
+  },
+  {
+    "id": "crayon-space-bike",
+    "name": "Strange Orbit",
+    "author": "Crayon",
+    "authorUrl": "https://x.com/usecrayon",
+    "genre": "太空竞速",
+    "version": "GPT-6 Astra",
+    "kind": "game",
+    "status": "target",
+    "source": "entry",
+    "play": "https://app.usecrayon.ai/play/47df78e2-1410-45d1-833c-196e1161c0b8",
+    "note": "骑车绕行行星环，收集星尘并借助尾流和加速超越对手。",
+    "refs": [
+      [
+        "作者模型说明",
+        "https://x.com/usecrayon/status/2097468975995302167"
+      ]
+    ],
+    "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/crayon-space-bike/gameplay.jpg",
+    "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/crayon-space-bike",
+    "imageLabel": "实机截图",
+    "added": "2026-11-21"
+  },
+  {
+    "id": "the-crownless",
+    "name": "The Crownless",
+    "author": "Izkimar",
+    "authorUrl": "https://x.com/Izkimar",
+    "genre": "动作 Roguelite",
+    "version": "GPT-6 Astra",
+    "kind": "game",
+    "status": "target",
+    "source": "entry",
+    "play": "https://www.spawn.co/@izkimar/the-crownless/play",
+    "note": "向砂岩堡垒高处推进，连招战斗并用收集的灵魂解锁能力。",
+    "refs": [
+      [
+        "作者模型说明",
+        "https://x.com/Izkimar/status/2100753871903855095"
+      ]
+    ],
+    "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/the-crownless/gameplay.jpg",
+    "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/the-crownless",
+    "imageLabel": "实机截图",
+    "added": "2026-11-21"
+  },
+  {
+    "id": "cosmic-tides",
+    "name": "Cosmic Tides",
+    "author": "Aniket J",
+    "authorUrl": "https://x.com/aniketjart",
+    "genre": "太空竞速",
+    "version": "GPT-6 Astra",
+    "kind": "game",
+    "status": "target",
+    "source": "entry",
+    "play": "https://app.usecrayon.ai/play/362ae1e7-29bd-4fbc-9103-00649265d942",
+    "note": "驾驶飞行器沿发光门穿越星海，参加计时赛或自由漂移。",
+    "refs": [
+      [
+        "作者模型说明",
+        "https://x.com/aniketjart/status/2098207146647433534"
+      ]
+    ],
+    "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/cosmic-tides/gameplay.jpg",
+    "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/cosmic-tides",
+    "imageLabel": "实机截图",
+    "added": "2026-11-21"
+  },
+  {
+    "id": "neural-sight",
+    "name": "Neural Sight",
+    "author": "Earl Cameron",
+    "authorUrl": "https://x.com/monstercameron",
+    "genre": "第一人称冒险",
+    "version": "GPT-6 Astra",
+    "kind": "game",
+    "status": "target",
+    "source": "project",
+    "repo": "monstercameron/Neural-Sight",
+    "play": "https://monstercameron.github.io/Neural-Sight/",
+    "note": "在高斯溅射构建的场景中探索并对付来袭敌人。",
+    "refs": [
+      [
+        "作者模型说明",
+        "https://x.com/monstercameron/status/2097117275127959629"
+      ]
+    ],
+    "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/neural-sight/gameplay.jpg",
+    "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/neural-sight",
+    "imageLabel": "实机截图",
+    "added": "2026-11-21"
+  },
+  {
+    "id": "duskline-canyon-circuit",
+    "name": "DUSKLINE — Canyon Circuit",
+    "author": "Abu Hadi",
+    "authorUrl": "https://x.com/1banke",
+    "genre": "山谷竞速",
+    "version": "GPT-6 Astra",
+    "kind": "game",
+    "status": "target",
+    "source": "entry",
+    "play": "https://duskline-canyon-run.abdulhadi-ai.chatgpt.site/",
+    "note": "在日落峡谷赛道挑战圈速，可切换追车视角。",
+    "refs": [
+      [
+        "作者模型说明",
+        "https://x.com/1banke/status/2096394721115390301"
+      ]
+    ],
+    "image": "https://raw.githubusercontent.com/fatasia/awesome-gpt-6-astra-games/main/assets/screenshots/duskline-canyon-circuit/gameplay.jpg",
+    "imageSource": "https://github.com/fatasia/awesome-gpt-6-astra-games/tree/main/assets/screenshots/duskline-canyon-circuit",
+    "imageLabel": "实机截图",
+    "added": "2026-11-21"
   }
 ];
