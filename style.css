@@ -24,6 +24,13 @@ main, footer, .masthead { width: min(1320px, 92vw); margin-inline: auto; }
 }
 .masthead a { color: var(--ink); text-decoration: none; font-weight: 700; }
 .masthead span, .edition span { color: var(--lime); }
+.catalog-nav { display: flex; align-items: center; flex-wrap: wrap; gap: .35rem .65rem; }
+.catalog-nav a { white-space: nowrap; }
+.masthead .catalog-switch {
+  display: inline-flex; align-items: center; min-height: 2rem; padding: .15rem .65rem;
+  border: 1px solid #50594a; border-radius: 999px; background: var(--panel); color: var(--lime);
+}
+.masthead .catalog-switch:hover { border-color: var(--lime); color: var(--ink); }
 .hero {
   text-align: center; padding: clamp(15px, 2.7vw, 32px) 0;
 }
